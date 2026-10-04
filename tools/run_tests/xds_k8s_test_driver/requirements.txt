@@ -14,5 +14,5 @@ kubernetes~=12.0
 retrying~=1.3
 tenacity~=6.2
 Pygments~=2.9
-protobuf~=3.14
+protobuf~=7.36
 xds-protos~=0.0.8
